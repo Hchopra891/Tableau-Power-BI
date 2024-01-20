@@ -1,5 +1,4 @@
 # Tableau
+Please click on the Link below to access the dashboard on Tableau Public Platform. 
 
-
-Here, I will be adding various tableau dashboards.
-Thank you.
+[https://public.tableau.com/app/profile/himanshu.chopra/vizzes](https://public.tableau.com/app/profile/himanshu.chopra/vizzes)https://public.tableau.com/app/profile/himanshu.chopra/vizzes
